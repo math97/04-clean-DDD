@@ -19,6 +19,7 @@
   "homepage": "https://github.com/math97/04-clean-DDD#readme",
   "devDependencies": {
     "@types/node": "^22.13.10",
-    "typescript": "^5.8.2"
+    "typescript": "^5.8.2",
+    "vitest": "^3.0.8"
   }
 }
