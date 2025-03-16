@@ -9,5 +9,4 @@ interface QuestionProps {
   authorId: string
 }
 
-export class Question extends Entity<QuestionProps> {
-}
+export class Question extends Entity<QuestionProps> {}
