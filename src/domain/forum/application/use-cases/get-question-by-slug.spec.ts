@@ -1,6 +1,6 @@
 import { Question } from '@/domain/forum/enterprise/entities/question'
 import { GetQuestionBySlugUseCase } from './get-question-by-slug'
-import { InMemoryQuestionsRepository } from '@/test/repositories/in-memory-questions-repository'
+import { InMemoryQuestionsRepository } from 'test/repositories/in-memory-questions-repository'
 import { Slug } from '@/domain/forum/enterprise/entities/value-objects/slug'
 import { UniqueEntityID } from '@/core/entities/unique-entity-id'
 
